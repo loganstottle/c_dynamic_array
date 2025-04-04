@@ -7,7 +7,7 @@ typedef struct {
 } DynamicArray;
 
 DynamicArray* da_new() {
-
+   // 
 }
 
 int main(void) {
