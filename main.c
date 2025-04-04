@@ -12,6 +12,7 @@ DynamicArray* da_new() {
 
 int main(void) {
     
+    printf("hi :3");
 
     return 0;
 }
